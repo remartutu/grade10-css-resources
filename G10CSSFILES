@@ -1,0 +1,15 @@
+grade10-css-resources/
+├── manifest.json
+├── images/
+│   ├── ram.webp
+│   ├── motherboard.webp
+│   └── psu.webp
+├── flowcharts/
+│   ├── no_power.png
+│   └── no_display.png
+├── videos/
+│   ├── ram_installation.mp4
+│   └── no_display.mp4
+└── lessons/
+    ├── safety.txt
+    └── troubleshooting.txt
